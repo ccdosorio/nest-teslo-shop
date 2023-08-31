@@ -21,7 +21,13 @@
    docker-compuse -up
    ```
 
-6. Levantar el proyecto en desarrollo
+6. Ejecutar el Seed
+
+   ```bash
+   http://localhost:3000/api/seed
+   ```
+
+7. Levantar el proyecto en desarrollo
 
    ```bash
    npm start run:dev
