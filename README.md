@@ -21,7 +21,7 @@
    docker-compuse -up
    ```
 
-6. Ejecutar el Seed
+6. Ejecutar Seed
 
    ```bash
    http://localhost:3000/api/seed
