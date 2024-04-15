@@ -18,7 +18,7 @@
 5. Levantar la base de datos
 
    ```bash
-   docker-compuse -up
+   docker-compose up
    ```
 
 6. Ejecutar Seed
